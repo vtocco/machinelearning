@@ -1,0 +1,1 @@
+This repo goes over using Python and a built in model from Keras. We can classify images through a web app using the flask framework as the server, and some basic javascript/jQuery on the front end to handle files. 
